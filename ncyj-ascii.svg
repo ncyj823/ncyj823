@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="671" viewBox="0 0 600 671">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600" height="671" viewBox="0 0 600 671">
 <style>
   text { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #58a6ff; }
   .row { animation: wipe 0.8s ease-out forwards; opacity: 0; }
@@ -12,60 +12,60 @@
 <text x="0" y="33" class="row" style="animation-delay: 0.06s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 <text x="0" y="44" class="row" style="animation-delay: 0.08s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 <text x="0" y="55" class="row" style="animation-delay: 0.10s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="66" class="row" style="animation-delay: 0.12s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%`.&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="77" class="row" style="animation-delay: 0.14s">@@@@@@@@@@@@@@@@@@@@@@@@@@s.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`.c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="88" class="row" style="animation-delay: 0.16s">@@@@@@@@@@@@@@@@@@@@@@@@@=.`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.`&nbsp;&nbsp;&nbsp;&nbsp;..```#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="99" class="row" style="animation-delay: 0.18s">@@@@@@@@@@@@@@@@@@@@@@@@-...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`.&nbsp;&nbsp;&nbsp;.`.`::`%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="110" class="row" style="animation-delay: 0.20s">@@@@@@@@@@@@@@@@@@@@@@@+....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```:::``.:::``%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="121" class="row" style="animation-delay: 0.22s">@@@@@@@@@@@@@@@@@@@@@@%...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.`::---=+**+:-.`.s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="132" class="row" style="animation-delay: 0.24s">@@@@@@@@@@@@@@@@@@@@@%`..&nbsp;.&nbsp;&nbsp;.&nbsp;`:------==*cccc`&nbsp;&nbsp;&nbsp;%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="143" class="row" style="animation-delay: 0.26s">@@@@@@@@@@@@@@@@@@@@@#.&nbsp;..&nbsp;&nbsp;.&nbsp;.`:--=====*c+:=**..&nbsp;:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="154" class="row" style="animation-delay: 0.28s">@@@@@@@@@@@@@@@@@@@@%:....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`:-----=++*::++cc&nbsp;&nbsp;.*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="165" class="row" style="animation-delay: 0.30s">@@@@@@@@@@@@@@@@@@@@#`...&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;`::``:-=c`-.-ccc-&nbsp;&nbsp;:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="176" class="row" style="animation-delay: 0.32s">@@@@@@@@@@@@@@@@@@@%c`..&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;+`::-c*+===*sc.&nbsp;`s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="187" class="row" style="animation-delay: 0.34s">@@@@@@@@@@@@@@@@@@@%+`..&nbsp;&nbsp;.&nbsp;.&nbsp;&nbsp;.&nbsp;```:-:-=cs**cssc:&nbsp;.*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="198" class="row" style="animation-delay: 0.36s">@@@@@@@@@@@@@@@@@@@%-`..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.`-===-:-++cc=*ssc``.`s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="209" class="row" style="animation-delay: 0.38s">@@@@@@@@@@@@@@@@@@@#-`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;.:--==-----+*sccsc`..`:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="220" class="row" style="animation-delay: 0.40s">@@@@@@@@@@@@@@@@@@%s-`..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;`:-----::-`-*c*s.&nbsp;&nbsp;&nbsp;.`:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="231" class="row" style="animation-delay: 0.42s">@@@@@@@@@@@@@@@@@@%s-:`.&nbsp;.&nbsp;&nbsp;&nbsp;..&nbsp;.`::-::::=**ccs.&nbsp;&nbsp;&nbsp;&nbsp;...-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="242" class="row" style="animation-delay: 0.44s">@@@@@@@@@@@@@@@@@%%*::`....&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;`::::---=+cs:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..`s%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="253" class="row" style="animation-delay: 0.46s">@@@@@@@@@@@@@@@@@%#-```....&nbsp;.....&nbsp;&nbsp;&nbsp;.```:=++**-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...`=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="264" class="row" style="animation-delay: 0.48s">@@@@@@@@@@@@@@@@%#*`````.....&nbsp;...&nbsp;&nbsp;.`::`:--=+=`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;.`+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="275" class="row" style="animation-delay: 0.50s">@@@@@@@@@@@@@@@%#s`:.`........&nbsp;..&nbsp;&nbsp;&nbsp;`::::--.&nbsp;&nbsp;&nbsp;&nbsp;.``&nbsp;....``:*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="286" class="row" style="animation-delay: 0.52s">@@@@@@@@@@@@@@@#*=``.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;&nbsp;...&nbsp;&nbsp;.`.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...```:.=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="297" class="row" style="animation-delay: 0.54s">@@@@@@@@@@@@@@#s=-`..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;...``:***c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="308" class="row" style="animation-delay: 0.56s">@@@@@@@@@@@@@%s*-`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;`&nbsp;&nbsp;....&nbsp;...&nbsp;.&nbsp;&nbsp;.`==***@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="319" class="row" style="animation-delay: 0.58s">@@@@@@@@@@@@%sc-:..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;.`.&nbsp;&nbsp;```..&nbsp;&nbsp;......&nbsp;..:==*c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="330" class="row" style="animation-delay: 0.60s">@@@@@@@@@@@@%c:.:&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;.&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;```````.........&nbsp;.`+=*cc@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="341" class="row" style="animation-delay: 0.62s">@@@@@@@@@@@%*:.`:`...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;..```````````..`````...*+*c*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="352" class="row" style="animation-delay: 0.64s">@@@@@@@@@@@#=:=:``..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;.````````````.````````.-****@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="363" class="row" style="animation-delay: 0.66s">@@@@@@@@@@@%:c:`:`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.......```.`````````.:::`*****@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="374" class="row" style="animation-delay: 0.68s">@@@@@@@@@@@%-c::::``..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..``.``.`````````````:`.-=****@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="385" class="row" style="animation-delay: 0.70s">@@@@@@@@@@@@c*:``:..&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...`..````````````````:::=***%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="396" class="row" style="animation-delay: 0.72s">@@@@@@@@@@@@%==:``::.`&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..```````````.```````::-=+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="407" class="row" style="animation-delay: 0.74s">@@@@@@@@@@@@%-+=----:`&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..........````````````::-+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="418" class="row" style="animation-delay: 0.76s">@@@@@@@@@@@@*#==----:&nbsp;.&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;.&nbsp;`.....``````...``````:-+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="429" class="row" style="animation-delay: 0.78s">@@@@@@@@@@@@s#*=----::`&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;............`````````:-+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="440" class="row" style="animation-delay: 0.80s">@@@@@@@@@@@@%c*=----:``&nbsp;&nbsp;`...&nbsp;....&nbsp;&nbsp;&nbsp;..................````::=**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="451" class="row" style="animation-delay: 0.82s">@@@@@@@@@@@@@%*=----::`&nbsp;+&nbsp;`.`&nbsp;&nbsp;..`&nbsp;&nbsp;&nbsp;&nbsp;...................``.`=+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="462" class="row" style="animation-delay: 0.84s">@@@@@@@@@@@@@@*=----:`&nbsp;.@.&nbsp;`..&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;....................:.`-+*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="473" class="row" style="animation-delay: 0.86s">@@@@@@@@@@@@@@*=----::.%@+.&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...................`&nbsp;`:-+*s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="484" class="row" style="animation-delay: 0.88s">@@@@@@@@@@@@@@+-----::`%@%&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.............:.`-:=**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="495" class="row" style="animation-delay: 0.90s">@@@@@@@@@@@@@%=----:::`@@@`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...........`.......`:.:-`-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="506" class="row" style="animation-delay: 0.92s">@@@@@@@@@@@@@%=::----:`@@&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;......````..&nbsp;&nbsp;.`::.`::-=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="517" class="row" style="animation-delay: 0.94s">@@@@@@@@@@@@@c--:---::`@.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.`````.....`::`.`::-=+s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="528" class="row" style="animation-delay: 0.96s">@@@@@@@@@@@@@*-:---:::=@@%.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.......````.:```:--+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="539" class="row" style="animation-delay: 0.98s">@@@@@@@@@@@@@=-:--:::`c@@.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;.````&nbsp;:c-``::-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="550" class="row" style="animation-delay: 1.00s">@@@@@@@@@@@@@=----:::`%@%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;.``...`::-+#``:--+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="561" class="row" style="animation-delay: 1.02s">@@@@@@@@@@@@%-:--::::`%@&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.``.....``::@:`::=+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="572" class="row" style="animation-delay: 1.04s">@@@@@@@@@@@@%----::::.@s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...```````::::%%``:-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="583" class="row" style="animation-delay: 1.06s">@@@@@@@@@@@@s----:::`:%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;.`:::::-@``:-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="594" class="row" style="animation-delay: 1.08s">@@@@@@@@@@@@+----:::.%.&nbsp;.&nbsp;.`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;...`````::::--=@%``:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="605" class="row" style="animation-delay: 1.10s">@@@@@@@@@@@@+:----:`.&nbsp;&nbsp;&nbsp;...``.`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...``````+-=-::%@``:-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="616" class="row" style="animation-delay: 1.12s">@@@@@@@@@@@@=:----:`&nbsp;&nbsp;`&nbsp;.&nbsp;.&nbsp;&nbsp;..``&nbsp;:`&nbsp;.&nbsp;.&nbsp;.&nbsp;&nbsp;`+``:-`:*-::--:*@s`:-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="627" class="row" style="animation-delay: 1.14s">@@@@@@@@@@@@+::---:`&nbsp;&nbsp;&nbsp;`...:`&nbsp;.&nbsp;&nbsp;&nbsp;`&nbsp;&nbsp;&nbsp;...`.`---``-::--:::::=@%``:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="638" class="row" style="animation-delay: 1.16s">@@@@@@@@@@@@+:::--:`&nbsp;.......:s&nbsp;&nbsp;.`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...`:.`::`::---*---@@-`:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="649" class="row" style="animation-delay: 1.18s">@@@@@@@@@@@@+::::-::&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;`-c&nbsp;-:.....&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.:`.``````:::::-%@%`:-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="660" class="row" style="animation-delay: 1.20s">@@@@@@@@@@@@+:::---:&nbsp;..`:.&nbsp;&nbsp;&nbsp;.`=-`..&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;=`::-:```::::::-#@%.:-+=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="66" class="row" style="animation-delay: 0.12s">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%`.   ..    :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="77" class="row" style="animation-delay: 0.14s">@@@@@@@@@@@@@@@@@@@@@@@@@@s.      .      `.c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="88" class="row" style="animation-delay: 0.16s">@@@@@@@@@@@@@@@@@@@@@@@@@=.`.     .`    ..```#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="99" class="row" style="animation-delay: 0.18s">@@@@@@@@@@@@@@@@@@@@@@@@-...       `.   .`.`::`%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="110" class="row" style="animation-delay: 0.20s">@@@@@@@@@@@@@@@@@@@@@@@+....      ```:::``.:::``%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="121" class="row" style="animation-delay: 0.22s">@@@@@@@@@@@@@@@@@@@@@@%...      .`::---=+**+:-.`.s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="132" class="row" style="animation-delay: 0.24s">@@@@@@@@@@@@@@@@@@@@@%`.. .  . `:------==*cccc`   %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="143" class="row" style="animation-delay: 0.26s">@@@@@@@@@@@@@@@@@@@@@#. ..  . .`:--=====*c+:=**.. :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="154" class="row" style="animation-delay: 0.28s">@@@@@@@@@@@@@@@@@@@@%:....     `:-----=++*::++cc  .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="165" class="row" style="animation-delay: 0.30s">@@@@@@@@@@@@@@@@@@@@#`...   ..  `::``:-=c`-.-ccc-  :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="176" class="row" style="animation-delay: 0.32s">@@@@@@@@@@@@@@@@@@@%c`..    .  .   +`::-c*+===*sc. `s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="187" class="row" style="animation-delay: 0.34s">@@@@@@@@@@@@@@@@@@@%+`..  . .  . ```:-:-=cs**cssc: .*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="198" class="row" style="animation-delay: 0.36s">@@@@@@@@@@@@@@@@@@@%-`..       .`-===-:-++cc=*ssc``.`s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="209" class="row" style="animation-delay: 0.38s">@@@@@@@@@@@@@@@@@@@#-`.      . .:--==-----+*sccsc`..`:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="220" class="row" style="animation-delay: 0.40s">@@@@@@@@@@@@@@@@@@%s-`..     .  `:-----::-`-*c*s.   .`:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="231" class="row" style="animation-delay: 0.42s">@@@@@@@@@@@@@@@@@@%s-:`. .   .. .`::-::::=**ccs.    ...-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="242" class="row" style="animation-delay: 0.44s">@@@@@@@@@@@@@@@@@%%*::`....  ..   `::::---=+cs:      ..`s%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="253" class="row" style="animation-delay: 0.46s">@@@@@@@@@@@@@@@@@%#-```.... .....   .```:=++**-     ...`=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="264" class="row" style="animation-delay: 0.48s">@@@@@@@@@@@@@@@@%#*`````..... ...  .`::`:--=+=`     .. .`+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="275" class="row" style="animation-delay: 0.50s">@@@@@@@@@@@@@@@%#s`:.`........ ..   `::::--.    .`` ....``:*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="286" class="row" style="animation-delay: 0.52s">@@@@@@@@@@@@@@@#*=``. . . . .  ...  .`.  .          ...```:.=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="297" class="row" style="animation-delay: 0.54s">@@@@@@@@@@@@@@#s=-`..       .. ..     ..    .  ..    ...``:***c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="308" class="row" style="animation-delay: 0.56s">@@@@@@@@@@@@@%s*-`.        ... .   . .    `  .... ... .  .`==***@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="319" class="row" style="animation-delay: 0.58s">@@@@@@@@@@@@%sc-:..       . .      .. .`.  ```..  ...... ..:==*c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="330" class="row" style="animation-delay: 0.60s">@@@@@@@@@@@@%c:.: ..         . .   ..    ```````......... .`+=*cc@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="341" class="row" style="animation-delay: 0.62s">@@@@@@@@@@@%*:.`:`...             .. ..```````````..`````...*+*c*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="352" class="row" style="animation-delay: 0.64s">@@@@@@@@@@@#=:=:``..               . .````````````.````````.-****@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="363" class="row" style="animation-delay: 0.66s">@@@@@@@@@@@%:c:`:`.                .......```.`````````.:::`*****@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="374" class="row" style="animation-delay: 0.68s">@@@@@@@@@@@%-c::::``..             ..``.``.`````````````:`.-=****@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="385" class="row" style="animation-delay: 0.70s">@@@@@@@@@@@@c*:``:.. .             ...`..````````````````:::=***%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="396" class="row" style="animation-delay: 0.72s">@@@@@@@@@@@@%==:``::.`    .         ..```````````.```````::-=+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="407" class="row" style="animation-delay: 0.74s">@@@@@@@@@@@@%-+=----:`  ..          ..........````````````::-+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="418" class="row" style="animation-delay: 0.76s">@@@@@@@@@@@@*#==----: . .      ..   . `.....``````...``````:-+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="429" class="row" style="animation-delay: 0.78s">@@@@@@@@@@@@s#*=----::` .   .   .     ............`````````:-+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="440" class="row" style="animation-delay: 0.80s">@@@@@@@@@@@@%c*=----:``  `... ....   ..................````::=**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="451" class="row" style="animation-delay: 0.82s">@@@@@@@@@@@@@%*=----::` + `.`  ..`    ...................``.`=+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="462" class="row" style="animation-delay: 0.84s">@@@@@@@@@@@@@@*=----:` .@. `..   .    ....................:.`-+*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="473" class="row" style="animation-delay: 0.86s">@@@@@@@@@@@@@@*=----::.%@+. ..        ...................` `:-+*s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="484" class="row" style="animation-delay: 0.88s">@@@@@@@@@@@@@@+-----::`%@%   ..     ..      .............:.`-:=**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="495" class="row" style="animation-delay: 0.90s">@@@@@@@@@@@@@%=----:::`@@@`          ...........`.......`:.:-`-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="506" class="row" style="animation-delay: 0.92s">@@@@@@@@@@@@@%=::----:`@@               ......````..  .`::.`::-=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="517" class="row" style="animation-delay: 0.94s">@@@@@@@@@@@@@c--:---::`@.                  .`````.....`::`.`::-=+s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="528" class="row" style="animation-delay: 0.96s">@@@@@@@@@@@@@*-:---:::=@@%.                  .......````.:```:--+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="539" class="row" style="animation-delay: 0.98s">@@@@@@@@@@@@@=-:--:::`c@@.                     .  .```` :c-``::-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="550" class="row" style="animation-delay: 1.00s">@@@@@@@@@@@@@=----:::`%@%          ..       .  .``...`::-+#``:--+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="561" class="row" style="animation-delay: 1.02s">@@@@@@@@@@@@%-:--::::`%@                      .``.....``::@:`::=+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="572" class="row" style="animation-delay: 1.04s">@@@@@@@@@@@@%----::::.@s                    ...```````::::%%``:-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="583" class="row" style="animation-delay: 1.06s">@@@@@@@@@@@@s----:::`:%                    .    .. .`:::::-@``:-+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="594" class="row" style="animation-delay: 1.08s">@@@@@@@@@@@@+----:::.%. . .`           ..   ...`````::::--=@%``:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="605" class="row" style="animation-delay: 1.10s">@@@@@@@@@@@@+:----:`.   ...``.`.            ...``````+-=-::%@``:-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="616" class="row" style="animation-delay: 1.12s">@@@@@@@@@@@@=:----:`  ` . .  ..`` :` . . .  `+``:-`:*-::--:*@s`:-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="627" class="row" style="animation-delay: 1.14s">@@@@@@@@@@@@+::---:`   `...:` .   `   ...`.`---``-::--:::::=@%``:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="638" class="row" style="animation-delay: 1.16s">@@@@@@@@@@@@+:::--:` .......:s  .`       ...`:.`::`::---*---@@-`:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="649" class="row" style="animation-delay: 1.18s">@@@@@@@@@@@@+::::-::   ..   `-c -:.....     .:`.``````:::::-%@%`:-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="0" y="660" class="row" style="animation-delay: 1.20s">@@@@@@@@@@@@+:::---: ..`:.   .`=-`..   .  . =`::-:```::::::-#@%.:-+=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 </g>
 </svg>
