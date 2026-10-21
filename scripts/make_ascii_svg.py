@@ -6,7 +6,7 @@ CHAR_W = 6
 CHAR_H = 11
 
 def convert():
-    print("Generating ASCII portrait SVG...")
+    print("Generating clean ASCII portrait SVG...")
     img = cv2.imread("source-prepped.png", cv2.IMREAD_GRAYSCALE)
     if img is None:
         print("Error: source-prepped.png not found.")
@@ -36,6 +36,12 @@ def convert():
         row_str = ""
         for x_idx in range(new_w):
             pixel = resized[y_idx, x_idx]
+            
+            # If pixel is near-black (background), treat as space
+            if pixel < 15:
+                row_str += "&#160;"
+                continue
+
             ramp_idx = int((pixel / 255.0) * (len(RAMP) - 1))
             char = RAMP[ramp_idx]
             if char == " ": row_str += "&#160;"
@@ -53,7 +59,7 @@ def convert():
     with open("ncyj-ascii-v2.svg", "w") as f:
         f.write("\n".join(svg_lines))
 
-    print("Saved ncyj-ascii-v2.svg successfully.")
+    print("Saved clean ncyj-ascii-v2.svg successfully.")
 
 if __name__ == "__main__":
     convert()
