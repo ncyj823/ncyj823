@@ -22,7 +22,7 @@ def convert():
     svg_h = new_h * CHAR_H
 
     svg_lines = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="{svg_w}" height="{svg_h}" viewBox="0 0 {svg_w} {svg_h}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{svg_w}" height="{svg_h}" viewBox="0 0 {svg_w} {svg_h}">',
         '<style>',
         f"  text {{ font-family: 'Courier New', Courier, monospace; font-size: {CHAR_H}px; fill: #58a6ff; }}",
         "  .row { animation: wipe 0.8s ease-out forwards; opacity: 0; }",
@@ -38,10 +38,11 @@ def convert():
             pixel = resized[y_idx, x_idx]
             ramp_idx = int((pixel / 255.0) * (len(RAMP) - 1))
             char = RAMP[ramp_idx]
-            if char == "<": char = "&lt;"
-            elif char == ">": char = "&gt;"
-            elif char == "&": char = "&amp;"
-            row_str += char
+            if char == " ": row_str += "&#160;"
+            elif char == "<": row_str += "&lt;"
+            elif char == ">": row_str += "&gt;"
+            elif char == "&": row_str += "&amp;"
+            else: row_str += char
 
         delay = f"{y_idx * 0.02:.2f}s"
         svg_lines.append(f'<text x="0" y="{y_idx * CHAR_H}" class="row" style="animation-delay: {delay}">{row_str}</text>')
@@ -49,10 +50,10 @@ def convert():
     svg_lines.append("</g>")
     svg_lines.append("</svg>")
 
-    with open("ncyj-ascii.svg", "w") as f:
+    with open("ncyj-ascii-v2.svg", "w") as f:
         f.write("\n".join(svg_lines))
 
-    print("Saved ncyj-ascii.svg successfully.")
+    print("Saved ncyj-ascii-v2.svg successfully.")
 
 if __name__ == "__main__":
     convert()

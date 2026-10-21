@@ -8,7 +8,7 @@
 <h3><code>nancy@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="https://cdn.jsdelivr.net/gh/ncyj823/ncyj823@main/ncyj-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="https://cdn.jsdelivr.net/gh/ncyj823/ncyj823@main/ncyj-ascii-v2.svg" width="370" /></td>
     <td valign="top"><img src="https://cdn.jsdelivr.net/gh/ncyj823/ncyj823@main/info-card.svg" width="490" /></td>
   </tr>
 </table>
