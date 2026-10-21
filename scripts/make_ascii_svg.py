@@ -9,7 +9,7 @@ def convert():
     print("Generating ASCII portrait SVG...")
     img = cv2.imread("source-prepped.png", cv2.IMREAD_GRAYSCALE)
     if img is None:
-        print("Error: source-prepped.png not found. Run prep_photo.py first.")
+        print("Error: source-prepped.png not found.")
         return
 
     h, w = img.shape
